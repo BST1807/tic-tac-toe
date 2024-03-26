@@ -29,4 +29,12 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
     color: #6a5b6e;
+    background-color: #f0b7b3;
+}
+#reset-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #ccddb7;
+    border-radius: 1rem;
+    border: none;
 }
